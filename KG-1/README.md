@@ -66,6 +66,10 @@ If you choose to use diodes, you can instead use a 680 Ohm resistor:
 
 <img src="https://user-images.githubusercontent.com/41927604/220768921-c24301c1-f9e4-4cf4-9ff5-3a016d8bd0c5.png" width=500 />
 
+Blanking calculations are below: 
+
+<img src="https://user-images.githubusercontent.com/41927604/220781839-a1bf47bd-b9d8-478b-b294-00c96f85b5d3.png" width=500 />
+
 
 ## Modification Steps
 
