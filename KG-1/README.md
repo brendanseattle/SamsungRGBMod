@@ -93,17 +93,25 @@ If you choose to use diodes, you can instead use a 680 Ohm resistor:
 
 <img src="https://user-images.githubusercontent.com/41927604/220775943-9c7145ae-bd40-4531-bb32-a7271725b6ba.jpg" width=300/> <img src="https://user-images.githubusercontent.com/41927604/220775997-83d248c0-c2b5-4622-b7a5-18518732cf72.jpg" width=300 /> <img src="https://user-images.githubusercontent.com/41927604/220776044-4492f19a-40af-4086-84c9-54ca0b170f9b.jpeg" width=300 />
 
-## Considerations
+## Read This!
 
 Once you have connected everything and it's working, you may notice a couple things:
 
 1. The RGB input will likely look too bright/washed out. Even though our signal is 0.7V, it seems these Samsungs display the analog RGB quite bright. The fix for this is to reduce the screen voltage a tad. Using a small philips screwdriver, reduce the "Screen" potentiometer which is located on the back of the flyback transformer. A small reduction will result in a perfect balance of colors in RGB. Note, this will reduce the brightness of the composite input. You can increase the default menu's Brightness and Picture settings to compensate for this, because the RGB bypasses them anyway.
-2. 
+2. Like all RGB mods, the screen will be shifted to the left a little bit due to us passing sync through the composite input. To fix this, you can use the service menu to increase the HS (Horizontal Shift) value. To access the service menu, turn the TV off, and hit Mute -> 1 -> 8 -> 2 -> Power on the remote in quick succession. 
+3. If using SCART, you will find that the audio is mono. You can fix this by plugging in a dummy RCA cable to the Right audio jack of the AV inputs. This signals the set to use stereo audio. (You can make a permanent change by closing this circuit under the board, but doing it this way allows you to still use mono audio signals if you want, such as from an NES.)
 
+
+## Results
+
+< INSERT COOL PICS HERE >
 
 ## Notes, Tips, and Tricks
 
+1. This TV is equipped with AV out jacks, which mirror the composite video and audio left and right channels. Some folks have used these jacks as their red, green, and blue inputs. To do this, you would need to cut the traces on the board to these pins, and inject your RGB lines to the pins inplace. You would then plug sync into the composite RCA jack as well as the existing audio L and R jacks.
+2. From what I can tell, GX mode on the front controls and remote seems to combine audio channels a bit. All I really found is that it reduces the amount of stereo separation in the audio. For this reason, I recommend not using GX mode (aka using AV mode). 
 
 ## Sources and Further Readings
 
 * [Shmups RGB mod thread](https://shmups.system11.org/viewtopic.php?p=1342960)
+* [MarkOZLAD's Samsung RGB mod guide](https://shmups.system11.org/viewtopic.php?f=6&t=63425&p=1338231#p1338231)
