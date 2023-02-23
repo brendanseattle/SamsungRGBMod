@@ -97,6 +97,17 @@ Blanking calculations are below:
 
 <img src="https://user-images.githubusercontent.com/41927604/220775943-9c7145ae-bd40-4531-bb32-a7271725b6ba.jpg" width=300/> <img src="https://user-images.githubusercontent.com/41927604/220775997-83d248c0-c2b5-4622-b7a5-18518732cf72.jpg" width=300 /> <img src="https://user-images.githubusercontent.com/41927604/220776044-4492f19a-40af-4086-84c9-54ca0b170f9b.jpeg" width=300 />
 
+8. Cut necessary holes in the back housing to fit your connectors. 
+
+### Note
+
+The subwoofer on this TV takes up large channels to the left and right of the neckboard. Also, the space to the left of the AV inputs is either very close to heatsinks, resulting in no room for connectors, or directly next to the flyback transformer, which can interfere with your signals. [See here for a demonstration on the effect of the FBT when the SCART port is too close](https://imgur.com/a/o7InOs2)
+
+With these in mind, I found the best place for my SCART port to be directly under the neckboard. This isn't the prettiest spot, but it ended up having no negative effect on my signals, and did not interfere with the subwoofer's housing.
+
+<img src="https://user-images.githubusercontent.com/41927604/220791367-2b9ea47f-1a7a-4f1c-94a4-576b5eda04ee.jpg" width=300 /> <img src="https://user-images.githubusercontent.com/41927604/220791432-3cc6863d-8365-4ac6-8be5-ad2149cbb80c.jpg" width=500 />
+
+
 ## Read This!
 
 Once you have connected everything and it's working, you may notice a couple things:
@@ -114,6 +125,7 @@ Once you have connected everything and it's working, you may notice a couple thi
 
 1. This TV is equipped with AV out jacks, which mirror the composite video and audio left and right channels. Some folks have used these jacks as their red, green, and blue inputs. To do this, you would need to cut the traces on the board to these pins, and inject your RGB lines to the pins inplace. You would then plug sync into the composite RCA jack as well as the existing audio L and R jacks.
 2. From what I can tell, GX mode on the front controls and remote seems to combine audio channels a bit. All I really found is that it reduces the amount of stereo separation in the audio. For this reason, I recommend not using GX mode (aka using AV mode). 
+3. I have not had any interference issues with this set when using high quality cables. However, in the pursuit of clean video signals, you can always opt to use inline diodes on the RGB lines as I mentioned above. For more info on reducing interference, see [Sunthar's guide here](https://sector.sunthar.com/guides/crt-rgb-mod/noise-and-bars.html)
 
 ## Sources and Further Readings
 
