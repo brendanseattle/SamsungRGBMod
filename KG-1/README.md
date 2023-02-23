@@ -41,21 +41,17 @@ For this mod you will need:
 
 This mux mod is quite simple as the inline resistors are a good value to keep the OSD visible while including our external RGB signal. We should not replace these inline resistors, instead we use them directly. 
 
-### Stock OSD video circuit:
+### Video lines:
 
-< INSERT PIC HERE >
+| Stock OSD Video Circuit | RGB Mod with no diodes on video lines | RGB Mod with diodes on video lines |
+|---|---|---|
+| <img src="https://user-images.githubusercontent.com/41927604/220828059-deafe6e0-40ba-42ce-857c-10e34435e4eb.jpg" width=400 /> | <img src="https://user-images.githubusercontent.com/41927604/220828227-b56e5a78-aa9f-41d4-8200-63b81405d5e7.jpg" width=400 /> | <img src="https://user-images.githubusercontent.com/41927604/220828538-e4e19ef1-278b-4874-a95d-23515fdbaccf.jpg" width=400 /> |
 
-### RGB lines with no diodes (the implementation I chose):
+### Blanking line:
 
-< INSERT PIC HERE >
-
-### RGB lines with diodes (could help reduce interference):
-
-< INSERT PIC HERE >
-
-### Blanking
-
-< INSERT PIC HERE >
+| Stock OSD Blanking circuit | External Blanking Mod |
+|---|---|
+|<img src="https://user-images.githubusercontent.com/41927604/220828168-74032190-1e10-49ec-a7c9-af522c035b13.jpg" width=400 />|<img src="https://user-images.githubusercontent.com/41927604/220828701-04059627-d5ce-4cc9-baac-0a253bda3a10.jpg" width=400 />|
 
 ### Note
 We came up with the 560 Ohm value through the following calculation:
