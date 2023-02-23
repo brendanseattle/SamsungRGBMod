@@ -41,6 +41,8 @@ For this mod you will need:
 
 This mux mod is quite simple as the inline resistors are a good value to keep the OSD visible while including our external RGB signal. We should not replace these inline resistors, instead we use them directly. 
 
+There is some discourse online that lowering the inline resistors value will help with the video brightness. In my experience with reducing it to a 1kOhm resistor, the video quality stayed the same, but the OSD was barely visible. For this reason I recommend using the stock 3.9k.
+
 ### Video lines:
 
 | Stock OSD Video Circuit | RGB Mod with no diodes on video lines | RGB Mod with diodes on video lines |
