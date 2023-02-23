@@ -1,5 +1,5 @@
 # Samsung GX RGB Mod (Chassis KG-1)
-### (GXE-1395, etc)
+### (GXE1395, etc)
 
 <img src="https://user-images.githubusercontent.com/41927604/220997443-2e474486-9f2d-4723-8472-cfb9404142ba.jpg" width=600 />
 
