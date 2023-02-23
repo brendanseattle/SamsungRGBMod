@@ -102,7 +102,7 @@ The subwoofer on this TV takes up large channels to the left and right of the ne
 
 With these in mind, I found the best place for my SCART port to be directly under the neckboard. This isn't the prettiest spot, but it ended up having no negative effect on my signals, and did not interfere with the subwoofer's housing.
 
-<img src="https://user-images.githubusercontent.com/41927604/220791367-2b9ea47f-1a7a-4f1c-94a4-576b5eda04ee.jpg" width=300 /> <img src="https://user-images.githubusercontent.com/41927604/220791432-3cc6863d-8365-4ac6-8be5-ad2149cbb80c.jpg" width=500 />
+<img src="https://user-images.githubusercontent.com/41927604/220791367-2b9ea47f-1a7a-4f1c-94a4-576b5eda04ee.jpg" width=300 /> <img src="https://user-images.githubusercontent.com/41927604/220791432-3cc6863d-8365-4ac6-8be5-ad2149cbb80c.jpg" width=400 /> <img src="https://user-images.githubusercontent.com/41927604/221000079-f0ed4a35-57a2-44e4-973a-a583632bceb6.jpg" width=300 />
 
 
 ## Read This!
