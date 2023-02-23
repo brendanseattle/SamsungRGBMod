@@ -1,8 +1,7 @@
-# Samsung KG-1 RGB Mod
+# Samsung GX RGB Mod (Chassis KG-1)
 ### (GXE-1395, etc)
 
-
-<img src="https://user-images.githubusercontent.com/41927604/220743506-b7152c7e-c2c3-4ae7-84ff-f4fe36de7ed9.jpg" width="600" />
+<img src="https://user-images.githubusercontent.com/41927604/220997443-2e474486-9f2d-4723-8472-cfb9404142ba.jpg" width=600 />
 
 
 RGB Mod for Samsung KG-1 CRT televisions.
@@ -117,7 +116,11 @@ Once you have connected everything and it's working, you may notice a couple thi
 
 ## Results
 
-< INSERT COOL PICS HERE >
+<img src="https://user-images.githubusercontent.com/41927604/220997645-248ebcdb-785f-4de8-b7ff-e4520761cc80.jpg" width=500 /> <img src="https://user-images.githubusercontent.com/41927604/220997775-44966f6e-0a0d-40bf-a635-9255c55efe88.jpg" width=500 />
+
+<img src="https://user-images.githubusercontent.com/41927604/220997961-5e86b3bd-eac2-4169-975e-a4031ada6848.jpg" width=500 /> <img src="https://user-images.githubusercontent.com/41927604/220997998-4de27121-480d-4937-86c0-d3ebd1bf1685.jpg" width=500 />
+
+<img src="https://user-images.githubusercontent.com/41927604/220998194-a10a4283-d908-4bf7-8462-95129af923e6.jpg" width=500 /> <img src="https://user-images.githubusercontent.com/41927604/220998213-f4a7c0b1-4b64-449d-8e2d-44e928c7e2db.jpg" width=500 />
 
 ## Notes, Tips, and Tricks
 
