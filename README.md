@@ -6,4 +6,4 @@ RGB mod for Samsung CRT televisions
 
 Written by Brendan Eddy (FlyingFlygon)
 
-* For a guide on modding a KV-1 chassis televisions (GXE-1395 etc), see the [KG-1 folder](KG-1/README.md).
+* For a guide on modding a KV-1 chassis televisions (GXE1395 [Samsung GX TV] etc), see the [KG-1 folder](KG-1/README.md).
