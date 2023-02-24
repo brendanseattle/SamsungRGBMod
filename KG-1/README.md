@@ -7,8 +7,7 @@
 RGB Mod for Samsung KG-1 CRT televisions.
 
 Written by Brendan Eddy (FlyingFlygon). Credits to:
-* MarkOZLAD for method and diagrams
-* Syntax for method
+* MarkOZLAD and Syntax for method
 
 ## Overview
 
