@@ -1,4 +1,4 @@
-# SamsungRGBMod
+# Samsung CRT RGB Mods
 RGB mod for Samsung CRT televisions
 
 
