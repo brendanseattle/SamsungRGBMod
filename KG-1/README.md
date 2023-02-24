@@ -97,7 +97,7 @@ Blanking calculations are below:
 
 ### Note
 
-The subwoofer on this TV takes up large channels to the left and right of the neckboard. Also, the space to the left of the AV inputs is either very close to heatsinks, resulting in no room for connectors, or directly next to the flyback transformer, which can interfere with your signals. [See here for a demonstration on the effect of the FBT when the SCART port is too close](https://imgur.com/a/o7InOs2)
+The subwoofer on this TV takes up large channels to the left and right of the neckboard. Also, the space to the left of the AV inputs is either very close to heatsinks, resulting in no room for connectors, or directly next to the flyback transformer, which can interfere with your signals. [See here for a demonstration on the effect of the FBT when the SCART port is too close.](https://imgur.com/a/o7InOs2)
 
 With these in mind, I found the best place for my SCART port to be directly under the neckboard. This isn't the prettiest spot, but it ended up having no negative effect on my signals, and did not interfere with the subwoofer's housing.
 
