@@ -132,3 +132,6 @@ Once you have connected everything and it's working, you may notice a couple thi
 
 * [Shmups RGB mod thread](https://shmups.system11.org/viewtopic.php?p=1342960)
 * [MarkOZLAD's Samsung RGB mod guide](https://shmups.system11.org/viewtopic.php?f=6&t=63425&p=1338231#p1338231)
+
+#### SEO tags:
+samsung gx rgb mod, samsung gx rgb tutorial, rgb mod guide, rgb mod documentation, samsung gx rgb video
